@@ -1,0 +1,17 @@
+{
+  "name": "Mocks",
+  "version": "1.0.0",
+  "description": "Mocks by zerobug for FIO MANAGER WEB",
+  "main": "index.js",
+  "author": "ZEROBUG",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "faker": "^6.6.6",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
